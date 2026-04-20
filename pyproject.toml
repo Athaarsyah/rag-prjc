@@ -12,9 +12,11 @@ dependencies = [
     "langchain-community>=0.4.1",
     "langchain-core>=1.2.30",
     "langchain-groq>=1.1.2",
+    "langchain-huggingface>=1.2.1",
     "pymupdf>=1.27.2.2",
     "pypdf>=6.10.2",
     "python-dotenv>=1.2.2",
     "sentence-transformers>=5.4.1",
     "tqdm>=4.67.3",
+    "typesense>=2.0.0",
 ]
