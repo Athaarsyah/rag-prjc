@@ -12,3 +12,7 @@ wheels/
 .env
 
 data
+
+uv.lock
+test.txt
+.toml
